@@ -8,6 +8,8 @@ Test git
 
 ABCDEFG OMG ...
 
+// additional content
+
 4. test commit
 
 5. test commit second
