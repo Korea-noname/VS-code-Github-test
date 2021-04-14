@@ -7,3 +7,5 @@ Test git
 3. add text test
 
 ABCDEFG OMG ...
+
+// additional content
